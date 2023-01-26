@@ -233,20 +233,6 @@ html {
       ),
       linear-gradient(0deg, var(--secondary) 100%, var(--secondary) 100%);
   }
-  // .background-container {
-  //   position: fixed;
-  //   top: 0;
-  //   left: 0;
-  //   height: 100vh;
-  //   width: 100vw;
-  //   background: url('https://media.istockphoto.com/id/1212624604/vector/abstract-geometric-network-technology-background.jpg?s=2048x2048&w=is&k=20&c=jaRlKs0MxINQ8l_CyIHfRCP-hiIJPvMmtsWAeLB02VE=') no-repeat right top;
-  //   // background: linear-gradient(
-  //   //   90deg,
-  //   //   var(--tertiary-hover) 0%,
-  //   //   var(--tertiary) 100%
-  //   // );
-  //   // clip-path: ellipse(148% 70% at 91% -14%);
-  // }
 
   .background-container {
     position: fixed;
@@ -259,102 +245,6 @@ html {
     background-position: center top;
     background-size: cover;
   }
-
-  // .background-container {
-  //   position: fixed;
-  //   top: 0;
-  //   left: 0;
-  //   height: 100vh;
-  //   width: 100vw;
-  //   background-image: url('https://ratking.co.uk/fgx/1351756759.png');
-  //   background-repeat: no-repeat;
-  //   background-position: center top;
-  //   background-size: cover;
-  // }
-
-  // .background-container {
-  //   position: fixed;
-  //   top: 0;
-  //   right: 0;
-  //   height: 100vh;
-  //   width: 100vw;
-  //   background-image: url('https://ratking.co.uk/fgx/1221328342.png');
-  //   background-repeat: no-repeat;
-  //   background-position: center top;
-  //   background-size: cover;
-  // }
-
-  // .background-container {
-  //   position: fixed;
-  //   top: 0;
-  //   right: 0;
-  //   height: 100vh;
-  //   width: 100vw;
-  //   background-image: url('https://ratking.co.uk/fgx/1165956492.png');
-  //   background-repeat: no-repeat;
-  //   background-position: center center;
-  //   background-size: cover;
-  // }
-
-  // .background-container {
-  //   position: fixed;
-  //   top: 0;
-  //   right: 0;
-  //   height: 100vh;
-  //   width: 100vw;
-  //   background-image: url('https://ratking.co.uk/fgx/873333246.png');
-  //   background-repeat: no-repeat;
-  //   background-position: center top;
-  //   background-size: cover;
-  // }
-
-  // .background-container {
-  //   position: fixed;
-  //   top: 0;
-  //   right: 0;
-  //   height: 100vh;
-  //   width: 100vw;
-  //   background-image: url('https://ratking.co.uk/fgx/1385754737.png');
-  //   background-repeat: no-repeat;
-  //   background-position: center 10%;
-  //   background-size: cover;
-  // }
-
-  // .background-container {
-  //   position: fixed;
-  //   top: 0;
-  //   right: 0;
-  //   height: 100vh;
-  //   width: 100vw;
-  //   background-image: url('https://ratking.co.uk/fgx/622067934.png');
-  //   background-repeat: no-repeat;
-  //   background-position: center 10%;
-  //   background-size: cover;
-  // }
-
-  // .background-container {
-  //   position: fixed;
-  //   top: 0;
-  //   right: 0;
-  //   height: 100vh;
-  //   width: 100vw;
-  //   background-image: url('https://ratking.co.uk/fgx/843408354.png');
-  //   background-repeat: no-repeat;
-  //   background-position: center 10%;
-  //   background-size: cover;
-  // }
-
-  // .background-container {
-  //   position: fixed;
-  //   top: 0;
-  //   right: 0;
-  //   height: 100vh;
-  //   width: 100vw;
-  //   background-image: url('https://ratking.co.uk/fgx/1159199214.png');
-  //   background-repeat: no-repeat;
-  //   background-position: center 10%;
-  //   background-size: cover;
-  // }
 }
 
 html body #main-outlet {
@@ -648,4 +538,13 @@ html body #main-outlet {
 
 img.avatar {
   border-radius: 0.25rem;
+}
+
+#create-account-title.login-welcome-header,
+.invites-show .login-welcome-header,
+.d-modal.login-modal .login-welcome-header {
+  
+  .waving-hand {
+    display: none;
+  }
 }
