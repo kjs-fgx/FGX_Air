@@ -548,3 +548,30 @@ img.avatar {
     display: none;
   }
 }
+
+.search-dropdown,
+.hamburger-dropdown,
+.show-more-actions,
+.share.no-text:not(.d-hover),
+.toggle-like.like {
+
+  svg.d-icon.svg-icon {
+    color: var(--quaternary);
+  }
+}
+
+aside.onebox {
+  border-radius: 10px;
+}
+
+.check-display {
+
+  .fa.svg-icon {
+    margin-left: -1px;
+    vertical-align: 0;
+  }
+}
+
+.category-box-inner {
+  border-radius: 0 10px 10px 0;
+}
