@@ -575,3 +575,29 @@ aside.onebox {
 .category-box-inner {
   border-radius: 0 10px 10px 0;
 }
+
+.post-controls {
+
+  .button-count.like-count {
+    margin-bottom: -3px;
+  }
+}
+
+.badge-wrapper.bullet {
+
+  .badge-category-bg {
+    border-radius: 50%;
+  }
+}
+
+.sidebar-section-wrapper {
+
+  a {
+
+    .svg-icon {
+      width: 1.5em;
+      height: 1.5em;
+      margin-top: -5px;
+    }
+  }
+}
