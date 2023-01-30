@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
 
-    <symbol id="fgx-air-pin" class="icon icon-tabler icon-tabler-pin" viewBox="0 0 22 22" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <symbol id="fgx-air-pinned" class="icon icon-tabler icon-tabler-pinned" viewBox="0 0 22 22" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
         <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-        <path d="M9 4v6l-2 4v2h10v-2l-2 -4v-6" fill="currentColor"></path>
+        <path d="M9 4v6l-2 4v2h10v-2l-2 -4v-6"></path>
         <path d="M12 16l0 5"></path>
         <path d="M8 4l8 0"></path>
     </symbol>
@@ -415,5 +415,19 @@
         <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
         <path d="M14 8v-2a2 2 0 0 0 -2 -2h-7a2 2 0 0 0 -2 2v12a2 2 0 0 0 2 2h7a2 2 0 0 0 2 -2v-2"></path>
         <path d="M7 12h14l-3 -3m0 6l3 -3"></path>
+    </symbol>
+    <symbol id="fgx-air-shield-filled" class="icon icon-tabler icon-tabler-shield-filled" viewBox="0 0 22 22" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+        <path d="M12 3a12 12 0 0 0 8.5 3a12 12 0 0 1 -8.5 15a12 12 0 0 1 -8.5 -15a12 12 0 0 0 8.5 -3" fill="currentColor"></path>
+    </symbol>
+    <symbol id="fgx-air-folder" class="icon icon-tabler icon-tabler-folder" viewBox="0 0 22 22" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+        <path d="M5 4h4l3 3h7a2 2 0 0 1 2 2v8a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2v-11a2 2 0 0 1 2 -2"></path>
+    </symbol>
+    <symbol id="fgx-air-hourglass-high" class="icon icon-tabler icon-tabler-hourglass-high" viewBox="0 0 22 22" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+        <path d="M6.5 7h11"></path>
+        <path d="M6 20v-2a6 6 0 1 1 12 0v2a1 1 0 0 1 -1 1h-10a1 1 0 0 1 -1 -1z"></path>
+        <path d="M6 4v2a6 6 0 1 0 12 0v-2a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1z"></path>
     </symbol>
 </svg>
